@@ -17,6 +17,7 @@
 
     <modules>
         <module>basic-drools</module>
+        <module>drools-kieSession</module>
     </modules>
 
     <properties>
