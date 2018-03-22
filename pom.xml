@@ -18,6 +18,7 @@
     <modules>
         <module>basic-drools</module>
         <module>drools-kieSession</module>
+        <module>drools-boot</module>
     </modules>
 
     <properties>
